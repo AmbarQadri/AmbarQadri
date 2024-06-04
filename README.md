@@ -93,9 +93,9 @@
 
 <h2 align="left">📊 GitHub Stats:</h2>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ambarqadri&show_icons=true&locale=en" alt="ambarqadri" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AmbarQadri&show_icons=true&locale=en" alt="ambarqadri" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ambarqadri&" alt="ambarqadri" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AmbarQadri&" alt="ambarqadri" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ambarqadri&show_icons=true&locale=en&layout=compact" alt="ambarqadri" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AmbarQadri&show_icons=true&locale=en&layout=compact" alt="ambarqadri" /></p>
 
