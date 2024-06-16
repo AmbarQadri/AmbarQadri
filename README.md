@@ -17,7 +17,7 @@
 
 - 🤝 I’m looking for help with **DSA, Web Development or Mobile Application Development**
 
-- 💬 Ask me about **Web Development || Cloud Computing**
+- 💬 Ask me about **Web Development, Cloud Computing**
 
 - 📫 How to reach me **ambarqadri12@gmail.com**
 
