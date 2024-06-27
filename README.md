@@ -91,6 +91,8 @@
 </p>
 <br>
 
+![GitHub stars](https://img.shields.io/github/stars/AmbarQadri/Readme.md?style=social)
+
 <h2 align="left">📊 GitHub Stats:</h2>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AmbarQadri&show_icons=true&locale=en" alt="ambarqadri" /></p>
